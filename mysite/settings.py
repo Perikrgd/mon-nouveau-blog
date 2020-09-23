@@ -23,7 +23,7 @@ BASE_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 SECRET_KEY = '1+e#5+9(obgk1lao^5b^0=#!reml0vaf-@!0ve-5&zvhbg8mtq'
 
 # SECURITY WARNING: don't run with debug turned on in production!
-DEBUG = True
+DEBUG = False
 
 ALLOWED_HOSTS = ['prigoudy.pythonanywhere.com','127.0.0.1', '.pythonanywhere.com']
 
